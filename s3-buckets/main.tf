@@ -6,7 +6,7 @@ resource "aws_s3_bucket" "bucket1" {
   bucket = "aluruarumullaa1"
 
   tags = {
-    Name        = "aluruarumullaa1"
+    Name        = "Kesava94941"
     Environment = "dev"
   }
 }
@@ -22,7 +22,7 @@ resource "aws_s3_bucket" "bucket2" {
   bucket = "arumullaaluruu1"
 
   tags = {
-    Name        = "arumullaaluruu1"
+    Name        = "kesava94942"
     Environment = "dev"
   }
 }
