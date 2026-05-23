@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "bucket1" {
-  bucket = "aluruarumullaa1"
+  bucket = "kesava94941"
 
   tags = {
     Name        = "Kesava94941"
@@ -19,7 +19,7 @@ resource "aws_s3_bucket_versioning" "bucket1_versioning" {
 }
 
 resource "aws_s3_bucket" "bucket2" {
-  bucket = "arumullaaluruu1"
+  bucket = "kesava94942"
 
   tags = {
     Name        = "kesava94942"
